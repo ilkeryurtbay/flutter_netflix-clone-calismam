@@ -24,12 +24,12 @@ final List<Movie> movies = [
   Movie(
     imageUrl: 'assets/images/spiderman.jpg',
     title: 'Spider-Man: Far From Home',
-    categories: 'Fantasy, Sci-fi',
+    categories: 'Fantezi, Sci-fi',
     year: 2018,
     country: 'USA',
     length: 129,
     description:
-        'Our friendly neighborhood Super Hero decides to join his best friends Ned, MJ, and the rest of the gang on a European vacation. However, Peter\'s plan to leave super heroics behind for a few weeks are quickly scrapped when he begrudgingly agrees to help Nick Fury uncover the mystery of several elemental creature attacks, creating havoc across the continent.',
+        'Dost canlısı mahallemiz Süper Kahraman, en iyi arkadaşları Ned, MJ ve çetenin geri kalanına bir Avrupa tatilinde katılmaya karar verir. Ancak Peter\'ın birkaç haftalığına süper kahramanları geride bırakma planı, Nick Furynin kıtada kargaşa yaratan birkaç temel yaratık saldırısının gizemini ortaya çıkarmasına isteksizce yardım etmeyi kabul etmesiyle çabucak rafa kaldırıldı.',
     screenshots: [
       'assets/images/spiderman_0.jpg',
       'assets/images/spiderman_1.jpg',
@@ -39,12 +39,12 @@ final List<Movie> movies = [
   Movie(
     imageUrl: 'assets/images/nutcracker.jpg',
     title: 'The Nutcracker And The Four Realms',
-    categories: 'Adventure, Family, Fantasy',
+    categories: 'Macera, Aile, Fantezi',
     year: 2018,
     country: 'USA',
     length: 100,
     description:
-        'All Clara wants is a key - a one-of-a-kind key that will unlock a box that holds a priceless gift from her late mother. A golden thread, presented to her at godfather Drosselmeyer\'s annual holiday party, leads her to the coveted key-which promptly disappears into a strange and mysterious parallel world. It\'s there that Clara encounters a soldier named Phillip, a gang of mice and the regents who preside over three Realms: Land of Snowflakes, Land of Flowers, and Land of Sweets. Clara and Phillip must brave the ominous Fourth Realm, home to the tyrant Mother Ginger, to retrieve Clara\'s key and hopefully return harmony to the unstable world.',
+        'Claranın tek istediği bir anahtardır - rahmetli annesinden paha biçilmez bir hediyenin bulunduğu kutunun kilidini açacak türünün tek örneği bir anahtar. Vaftiz babası Drosselmeyer\'in yıllık tatil partisinde kendisine sunulan altın bir iplik, onu gıpta edilen anahtara götürür - bu anahtar anında garip ve gizemli bir paralel dünyada kaybolur. Orada Clara, Phillip adında bir asker, bir fare çetesi ve üç Diyara başkanlık eden naiplerle karşılaşır: Land of Snowflakes, Land of Flowers ve Land of Sweets. Clara ve Phillip, Claranın anahtarını geri almak ve umarız istikrarsız dünyaya uyumu geri getirmek için tiran Ginger Ananın yuvası olan uğursuz Dördüncü Diyara meydan okumalıdır.',
     screenshots: [
       'assets/images/nutcracker_0.jpg',
       'assets/images/nutcracker_1.jpg',
@@ -54,12 +54,12 @@ final List<Movie> movies = [
   Movie(
     imageUrl: 'assets/images/toystory.jpg',
     title: 'Toy Story 4',
-    categories: 'Adventure, Fantasy',
+    categories: 'Macera, Fantezi',
     year: 2019,
     country: 'USA',
     length: 100,
     description:
-        'Woody, Buzz Lightyear and the rest of the gang embark on a road trip with Bonnie and a new toy named Forky. The adventurous journey turns into an unexpected reunion as Woody\'s slight detour leads him to his long-lost friend Bo Peep. As Woody and Bo discuss the old days, they soon start to realize that they\'re two worlds apart when it comes to what they want from life as a toy.',
+        'Woody, Buzz Lightyear ve çetenin geri kalanı, Bonnie ve Forky adında yeni bir oyuncakla bir yolculuğa çıkar. Woody\'nin küçük bir dolambaçlı yolu onu uzun zamandır kayıp olan arkadaşı Bo Peepe götürünce maceralı yolculuk beklenmedik bir buluşmaya dönüşür. Woody ve Bo eski günleri tartışırken, bir oyuncak olarak hayattan ne istediklerine gelince, çok geçmeden iki dünya ayrı olduklarını anlamaya başlarlar.',
     screenshots: [
       'assets/images/toystory_0.jpg',
       'assets/images/toystory_1.jpg',
